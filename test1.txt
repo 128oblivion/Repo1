@@ -1,0 +1,10 @@
+ Volume in drive C is BOOTCAMP
+ Volume Serial Number is 0246-9FF7
+
+ Directory of C:\Users\thuy\Desktop\Project
+
+10/29/2022  09:50 PM    <DIR>          .
+10/29/2022  09:50 PM    <DIR>          ..
+10/29/2022  09:50 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  60,939,038,720 bytes free
